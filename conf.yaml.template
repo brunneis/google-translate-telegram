@@ -1,0 +1,5 @@
+---
+token: XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+source_lang: auto
+target_lang: en
+start_message: You can translate any text to English. Just write /t before the text you want to translate.
